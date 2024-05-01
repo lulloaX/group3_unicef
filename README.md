@@ -1,6 +1,6 @@
 # Grupo 3 - UNICEF Peru
 
-Repositorio de datos para el proyecto de mejora de indices de vacunación entre UNICEF Peru y Grupo 3 de la 7ma promoción del Programa de Ciencia de datos avanzados impartido por MIT y Aporta Peru.
+Repositorio de datos para el proyecto de mejora de índices de vacunación entre UNICEF Peru y Grupo 3 de la 7ma promoción del Programa de Ciencia de datos avanzados impartido por MIT y Aporta Perú.
 
 El presente repositorio tiene como objetivo recolectar los *dataset*, *sources* y *scripts* creados durante el proyecto a manera de documentar el desarrollo del mismo.
 
